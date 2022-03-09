@@ -4,17 +4,19 @@
     "url": "https://fundacionmisangre.org/",
     "icon": "https://favicons.githubusercontent.com/fundacionmisangre.org",
     "slug": "fms",
-    "status": "up",
-    "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
-    "time": 2082,
-    "timeDay": 2082,
-    "timeWeek": 2082,
-    "timeMonth": 2082,
-    "timeYear": 2082,
-    "dailyMinutesDown": {}
+    "status": "down",
+    "uptime": "99.99%",
+    "uptimeDay": "99.99%",
+    "uptimeWeek": "99.99%",
+    "uptimeMonth": "99.99%",
+    "uptimeYear": "99.99%",
+    "time": 2745,
+    "timeDay": 2745,
+    "timeWeek": 2745,
+    "timeMonth": 2745,
+    "timeYear": 2745,
+    "dailyMinutesDown": {
+      "2022-03-09": 0
+    }
   }
 ]
