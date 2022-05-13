@@ -4,7 +4,7 @@
     "url": "https://fundacionmisangre.org/",
     "icon": "https://favicons.githubusercontent.com/fundacionmisangre.org",
     "slug": "fms",
-    "status": "up",
+    "status": "down",
     "uptime": "99.93%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
@@ -16,6 +16,7 @@
     "timeMonth": 2421,
     "timeYear": 2275,
     "dailyMinutesDown": {
+      "2022-05-13": 0,
       "2022-04-17": 21,
       "2022-03-25": 26,
       "2022-03-09": 18
